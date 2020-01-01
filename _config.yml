@@ -2,7 +2,7 @@
 title: CaptainJay
 SEOTitle: CaptainJay的博客 | CaptainJay
 header-img: img/home-bg-he.png
-email: xxxxxx@qq.com
+email: CaptionJay@qq.com
 description: "CaptainJay的博客"
 keyword: "CaptainJay, CaptainJay的博客, Captain Jay, CaptainJay, web blog"
 url: "http://captainjay.github.io"          # your host, for absolute URL
@@ -91,16 +91,16 @@ service-worker: true
 # Friends
 friends: [
     {
-        title: "GitHub·RainbomSea",
-        href: "http://RainbomSea.github.io"
+        title: "GitHub·CaptionJay",
+        href: "http://CaptionJay.github.io"
     },{
-        title: "CSDN·RainbomSea",
-        href: "https://blog.csdn.net/qq_39268193"
+        title: "CSDN·CaptionJay",
+        href: "http://CaptionJay.github.io"
     },{
-        title: "知乎·RainbomSea",
-        href: "https://www.zhihu.com/people/RainbomSea"
+        title: "知乎·CaptionJay",
+        href: "http://CaptionJay.github.io"
     },{
-        title: "GitBook·RainbomSea",
-        href: "https://legacy.gitbook.com/@rainbomsea"
+        title: "GitBook·CaptionJay",
+        href: "http://CaptionJay.github.io"
     }
 ]
