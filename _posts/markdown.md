@@ -8,7 +8,8 @@ header-img: img/home-bg-o.jpg
 catalog: true
 tags:
     - Blog
+    - First
 ---
 
-## 前言
-  Markdown的语法简洁明了、学习容易，而且功能比纯文本更强，因此有很多人用它写博客。
+## 易读易写
+  * Markdown 是一个 Web 上使用的文本到HTML的转换工具，可以通过简单、易读易写的文本格式生成结构化的HTML文档。目前 github、Stackoverflow 等网站均支持这种格式。
