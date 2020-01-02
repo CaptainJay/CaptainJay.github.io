@@ -2,7 +2,7 @@
 layout:     post
 title:      Markdown语法
 subtitle:   标记语言之markdown之语法大全
-date:       2020-01-01
+date:       2020-01-02
 author:     CaptainJay
 header-img: img/home-bg-o.jpg
 catalog: true
