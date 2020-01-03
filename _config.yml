@@ -61,9 +61,9 @@ kramdown:
 # Gitalk
 gitalk:
   enable: true    # 是否开启Gitalk评论
-  clientID: 99ecf1fdc9b7e357ebb7                            #生成的clientID
-  clientSecret: a866f00709e418ffd35d9986e130ff7f01a3cba2    #生成的clientSecret
-  repo: RainbomSea.github.io    #仓库名称
+  clientID: 890fb0dcc9361b58053d                            #生成的clientID
+  clientSecret: 98bd832dface4a011608a92ab5f300f81e88dcbb    #生成的clientSecret
+  repo: CaptainJay.github.io    #仓库名称
   owner: captainjay    # github用户名
   admin: captainjay
   distractionFreeMode: true # 是否启用类似FB的阴影遮罩
